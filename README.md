@@ -1,6 +1,18 @@
-# 💫 About Me:
-I am a passionate Android developer <br><br>🌍  I'm based in Faridabad<br>🚀  I'm currently honing my Coding Skills<br>🧠  3Vs that I believe "Veni Vidi Vici " !
 
+<div>
+<h1 align="center">💫Hi 👋, I'm Rishi Matura</h1>
+<h3 align="center">A passionate Android developer</h3>
+</div>
+
+###
+
+- 🌍 I'm based in Faridabad
+
+- 🚀  I'm currently honing my Coding Skills
+
+- 🧠  3Vs that I believe "Veni Vidi Vici "!
+
+###
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rishi-matura-193711231) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/Rishimatura) 
@@ -12,8 +24,7 @@ I am a passionate Android developer <br><br>🌍  I'm based in Faridabad<br>🚀
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RishiMatura&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RishiMatura&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RishiMatura&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RishiMatura&icon=9&color=0)](https://visitcount.itsvg.in)
