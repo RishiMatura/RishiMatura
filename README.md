@@ -1,7 +1,7 @@
 
 <div>
 <h1 align="center">💫Hi 👋, I'm Rishi Matura</h1>
-<h2 align="center">A passionate Android developer</h2>
+<h2 align="center">A passionate Software developer</h2>
 </div>
 
 
